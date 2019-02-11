@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="classes/|classes/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/lanterna-2.1.7.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Robot Support Code Part A and B"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
